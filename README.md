@@ -1,4 +1,4 @@
-<img align="right" height="120" src="./icon.png">
+<img align="right" height="120" src="./logo.png">
 
 UGPlotter-Windows
 ======
