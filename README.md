@@ -1,4 +1,4 @@
-<img align="right" height="120" src="./logo.png">
+<img align="right" height="120" src="https://bhc8521.oss-accelerate.aliyuncs.com/assets/logo.png">
 
 UGPlotter-Windows
 ======
